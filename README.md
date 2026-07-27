@@ -29,7 +29,7 @@ I love:
 
 ### Development & Automation
 - **Docker** — Containerization wizard 🐳
-- **CI/CD** — GitHub Actions, Jenkins (making deployments boring is my specialty)
+- **CI/CD** — GitHub Actions (making deployments exciting is my specialty)
 - **Scripting** — Bash, Python (when Bash gets jealous)
 - **IaC Tools** — Terraform (my go-to for infrastructure magic ✨)
 
@@ -39,7 +39,6 @@ I love:
 - **AWS Config** — Compliance checking that doesn't make me cry
 - **VPC Flow Logs** — Network traffic detective work 🔍
 - **AWS Security Hub** — Keeping the bad stuff out
-- **ELK Stack** — When I need to dig deeper into logs
 
 ### Daily Drivers
 - **VS Code** — My happy place
@@ -90,6 +89,7 @@ I'm always ready to:
 ---
 
 ## 📬 Let's Connect
+
 
 Got an infrastructure challenge? Want to chat about Kubernetes, Terraform, AWS security, or why automation is life?  
 **Let's build something awesome together!** 🎉
