@@ -93,7 +93,7 @@ I'm always ready to:
 
 Got an infrastructure challenge? Want to chat about Kubernetes, Terraform, AWS security, or why automation is life?  
 **Let's build something awesome together!** 🎉
-
+linkedin: https://www.linkedin.com/in/priscillaakrumah
 ---
 
 *Cloud engineer | Infrastructure enthusiast | Automation advocate | Security-first thinker | Coffee-powered 🖥️☕*
